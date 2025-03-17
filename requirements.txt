@@ -1,0 +1,14 @@
+# PyTorch and torchaudio for model inference
+torch>=1.10.0
+torchaudio>=0.10.0
+
+# Hugging Face Transformers and safetensors for safe model loading
+transformers>=4.30.0
+safetensors>=0.3.1
+
+# Numerical and scientific libraries
+numpy>=1.19.2
+scipy>=1.5.2
+
+# Optional: PyInstaller for packaging your application
+pyinstaller>=5.0
